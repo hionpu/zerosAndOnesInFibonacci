@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zerosAndOnesInFibonacci", "zerosAndOnesInFibonacci\zerosAndOnesInFibonacci.csproj", "{2270768A-81BE-4A0A-BDB3-5792834FD4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2270768A-81BE-4A0A-BDB3-5792834FD4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2270768A-81BE-4A0A-BDB3-5792834FD4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2270768A-81BE-4A0A-BDB3-5792834FD4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2270768A-81BE-4A0A-BDB3-5792834FD4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290CDF8A-06CD-44E5-8E7D-D868383DCC10}
+	EndGlobalSection
+EndGlobal
